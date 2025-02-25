@@ -17,7 +17,9 @@ export default function Home() {
           <div className="w-80 h-80 rounded-3xl bg-blue-300 absolute deg-50"></div>
           <div className="w-80 h-80 rounded-3xl bg-purple-400 absolute deg-10"></div>
           <div className="w-80 h-80 rounded-3xl bg-pink-400 absolute deg-30"></div>
-          <div className="w-80 h-80 rounded-3xl bg-orange-400 absolute deg-20 "></div>
+          <div className="w-80 h-80 rounded-3xl bg-orange-400 absolute deg-20 ">
+            <h1>hello</h1>
+          </div>
 
         </div>
       </div>
