@@ -13,11 +13,11 @@ export default function Home() {
           <h3>Hi, Abc</h3>
           <h1>How is it going?</h1>
           <div className="w-80 h-80 rounded-3xl bg-yellow-200 absolute"></div>
-          <div className="w-80 h-80 rounded-3xl bg-green-200 absolute deg-40"></div>
-          <div className="w-80 h-80 rounded-3xl bg-blue-300 absolute deg-50"></div>
-          <div className="w-80 h-80 rounded-3xl bg-purple-400 absolute deg-10"></div>
-          <div className="w-80 h-80 rounded-3xl bg-pink-400 absolute deg-30"></div>
-          <div className="w-80 h-80 rounded-3xl bg-orange-400 absolute deg-20 ">
+          <div className="w-80 h-80 rounded-3xl bg-green-200 absolute "></div>
+          <div className="w-80 h-80 rounded-3xl bg-blue-300 absolute "></div>
+          <div className="w-80 h-80 rounded-3xl bg-purple-400 absolute "></div>
+          <div className="w-80 h-80 rounded-3xl bg-pink-400 absolute "></div>
+          <div className="w-80 h-80 rounded-3xl bg-orange-400 absolute  ">
             <h1>hello</h1>
           </div>
 
